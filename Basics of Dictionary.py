@@ -48,3 +48,7 @@ print('\n')
 sort_by_value_di = {key : value for key, value in sorted(di.items(), key = lambda item: item[1])}
 print("Dictionary sorted by values: ")
 print(sort_by_value_di)
+
+# Length of a Dictionary:
+print('\n')
+print("Length of the Modified Dictionary is: ", len(di))
