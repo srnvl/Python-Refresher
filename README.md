@@ -1,4 +1,5 @@
-# Python Refresher
+# Python Refresher:
+### This is a refresher for commonly asked concepts in Python for scripting
 
 ## Dictionary
 
