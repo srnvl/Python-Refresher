@@ -13,3 +13,6 @@ This is a refresher for commonly asked concepts in Python for scripting.
 * Sort a dictionary based on value
   
 ## File Handling
+ * Read a file
+ * - Split data from a given file
+ * Write to a file
